@@ -1,4 +1,4 @@
-0import numpy as np
+import numpy as np
 from scipy.integrate import quad
 import matplotlib.pyplot as plt
 plt.style.use('default')
